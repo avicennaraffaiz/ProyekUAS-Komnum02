@@ -49,4 +49,9 @@ f(c) = -0.000021
 
 ## Referensi
 
-Chapra, S. C., & Canale, R. P. (2014). *Numerical Methods for Engineers* (7th ed.). [cite_start]McGraw-Hill.
+[1]	S. C. Chapra and R. P. Canale, Numerical Methods for Engineers, 7th ed. New York: McGraw-Hill, 2014.
+[2]	S. Rawat, N. Mehra, and A. Kumar, “Comparison of Bisection, Newton-Raphson and Secant Methods: A Case Study,” International Journal of Scientific Research in Computer Science, Engineering and Information Technology (IJSRCSEIT), vol. 9, no. 2, pp. 180–189, Mar. 2024.
+[3]	C. L. Sabharwal, “A Novel Combined Algorithm for Root-Finding Problems,” Mathematics, vol. 7, no. 6, pp. 543–554, Jun. 2019, [Online]. Available: https://doi.org/10.3390/math7060543 
+[4]	G. Gulshan, D. K. Srivastava, and M. A. Ansari, “A Novel Quantum Approach for Bisection Method,” Advances in Continuous and Discrete Models, vol. 2023, Article ID 5837087, pp. 1–12, 2023, [Online]. Available: https://doi.org/10.1155/2023/5837087 
+![image](https://github.com/user-attachments/assets/7d56f3d9-9baa-40b1-b0b2-87a06aa0a759)
+
