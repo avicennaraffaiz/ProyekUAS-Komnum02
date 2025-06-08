@@ -5,9 +5,9 @@ Program ini menggunakan metode numerik **Bisection** untuk menentukan **koefisie
 
 Parasutis dengan massa 68.1 kg mencapai kecepatan 40 m/s setelah jatuh selama 10 detik. Dengan menggunakan fungsi:
 
-\[
+$$
 f(c) = \frac{gm}{c} (1 - e^{-ct/m}) - v
-\]
+$$
 
 Program mencari nilai `c` sedemikian hingga fungsi tersebut bernilai nol.
 
